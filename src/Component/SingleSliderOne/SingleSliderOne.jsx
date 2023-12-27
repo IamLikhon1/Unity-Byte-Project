@@ -11,7 +11,7 @@ const SingleSliderOne = ({ slider }) => {
     }
     return (
         <div className="cursor-pointer">
-            <div className="grid md:grid-cols-2 items-center gap-5 py-10">
+            <div className="grid md:grid-cols-2 items-center gap-5 ">
                 {/* image */}
                 <div className="relative group">
 
