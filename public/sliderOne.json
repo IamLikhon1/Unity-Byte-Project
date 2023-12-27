@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "img": "https://img.freepik.com/free-vector/electric-teapot-coffee-morning-tea-beverage_134830-660.jpg?w=740&t=st=1703686558~exp=1703687158~hmac=d272d2aeed7e0a0bb0a91133867f9f0cd1d2641eb1e31677efac972ce902eca9",
+        "name": "FastBoil 2000",
+        "price": 34.99,
+        "description": "A high-speed electric kettle with rapid boiling technology. Perfect for quick and efficient water boiling for your beverages."
+    },
+    {
+        "id": 2,
+        "img": "https://img.freepik.com/premium-photo/coffee-maker_152290-1.jpg?w=740",
+        "name": "BrewMaster 5000",
+        "price": 89.99,
+        "description": "Start your day right with the BrewMaster 5000 coffee maker. Brews rich and flavorful coffee with customizable settings for your preferences.",
+        "sell":"-6%"
+    },
+    {
+        "id": 3,
+        "img": "https://img.freepik.com/free-vector/realistic-light-bulb-isolated_1284-41741.jpg?w=740&t=st=1703686632~exp=1703687232~hmac=90b56ffabcca44eb857e7bbb6bf2bbd399993f58e23bb30b8ebe5684a4e03bd9",
+        "name": "Illuminate Plus",
+        "price": 12.99,
+        "description": "An intelligent LED bulb with adjustable color temperature and brightness. Compatible with smart home systems for convenient control.",
+        "sell":"-6%"
+    },
+    {
+        "id": 4,
+        "img": "https://img.freepik.com/free-vector/set-realistic-vacuum-cleaners-various-types_1284-32867.jpg?w=740&t=st=1703686668~exp=1703687268~hmac=0123e24a26c204db0d5c180c7090bfa355771171395859c9c530873f0e778d96",
+        "name": "AutoClean Max",
+        "price": 199.99,
+        "description": "Make cleaning effortless with the AutoClean Max robot vacuum cleaner. Smart navigation, powerful suction, and automatic charging.",
+        "sell":"-6%"
+    },
+    {
+        "id": 5,
+        "img": "https://img.freepik.com/premium-photo/car-cooling-fan-with-plastic-blades-radiator-fan-white-background-car-thermal-clutch-radiator-fan-cooling-white-background-car-truck-details-parts-car-details-parts_263512-3362.jpg?w=740",
+        "name": "CoolBreeze Turbo",
+        "price": 59.99,
+        "description": "Stay cool in style with the CoolBreeze Turbo electric fan. Adjustable speed settings, oscillation feature, and a modern design for any room.",
+        "sell":"-6%"
+    },
+    {
+        "id": 6,
+        "img": "https://img.freepik.com/free-vector/set-realistic-vacuum-cleaners-various-types_1284-32867.jpg?w=740&t=st=1703686668~exp=1703687268~hmac=0123e24a26c204db0d5c180c7090bfa355771171395859c9c530873f0e778d96",
+        "name": "AutoClean Max",
+        "price": 199.99,
+        "description": "Make cleaning effortless with the AutoClean Max robot vacuum cleaner. Smart navigation, powerful suction, and automatic charging.",
+        "sell":"-6%"
+    },
+    {
+        "id": 7,
+        "img": "https://img.freepik.com/premium-photo/coffee-maker_152290-1.jpg?w=740",
+        "name": "AutoClean Max",
+        "price": 199.99,
+        "description": "Make cleaning effortless with the AutoClean Max robot vacuum cleaner. Smart navigation, powerful suction, and automatic charging.",
+        "sell":"-6%"
+    },
+    {
+        "id": 8,
+        "img": "https://img.freepik.com/free-vector/realistic-light-bulb-isolated_1284-41741.jpg?w=740&t=st=1703686632~exp=1703687232~hmac=90b56ffabcca44eb857e7bbb6bf2bbd399993f58e23bb30b8ebe5684a4e03bd9",
+        "name": "FastBoil 2000",
+        "price": 34.99,
+        "description": "A high-speed electric kettle with rapid boiling technology. Perfect for quick and efficient water boiling for your beverages."
+    }
+]
