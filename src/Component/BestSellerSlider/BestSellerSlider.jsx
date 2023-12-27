@@ -24,7 +24,8 @@ const BestSellerSlider = () => {
 
                 {/* slider */}
                 <div className="col-span-5 mx-2 pb-5 mt-5 md:mt-0">
-                    <h2 className='uppercase text-2xl font-semibold'>Best seller</h2>
+                    <h2 className='uppercase text-2xl font-bold my-2'>Best seller</h2>
+                    <hr />
                     <Swiper
                         slidesPerView={1}
                         spaceBetween={30}
