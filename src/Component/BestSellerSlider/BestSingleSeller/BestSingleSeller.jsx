@@ -4,7 +4,7 @@ const BestSingleSeller = ({ slider }) => {
     const { name, price, img } = slider;
     return (
         <div>
-            <div className="flex mt-5">
+            <div className="flex mt-5 cursor-pointer">
                 <div>
                     <img className="w-40" src={img} alt="" />
                 </div>

@@ -18,12 +18,12 @@ const BestSellerSlider = () => {
     return (
         <div>
             <div className="md:grid md:grid-cols-12 gap-5 items-center">
-                <div className="col-span-7  mx-2 md:mx-0">
+                <div className="col-span-7 mx-1 md:mx-0">
                     <img className='w-full' src="https://img.freepik.com/free-vector/modern-black-friday-horizontal-banner-with-white-brush-stroke-background_1361-3703.jpg?w=1380&t=st=1703694375~exp=1703694975~hmac=79b8d7ceb0fc4c85286e1546d70af9f489cc2af208a6f8baddadf44532682655" alt="" />
                 </div>
 
                 {/* slider */}
-                <div className="col-span-5 mx-2 pb-5 mt-5 md:mt-0">
+                <div className="col-span-5 mx-2 pb-5 mt-8 md:mt-0">
                     <h2 className='uppercase text-2xl font-bold my-2'>Best seller</h2>
                     <hr />
                     <Swiper

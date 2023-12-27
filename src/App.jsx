@@ -5,7 +5,7 @@ import SliderOne from "./Component/SliderOne/SliderOne";
 const App = () => {
 
   return (
-    <div className='max-w-7xl mx-auto pt-10 md:pt-20'>
+    <div className='container mx-auto pt-10 md:pt-20'>
       <Toaster />
       <SliderOne />
       <BestSellerSlider/>

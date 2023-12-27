@@ -20,7 +20,7 @@ const SliderOne = () => {
 
                 {/* sliderOne */}
                 <SwiperSlide>
-                    <div className='grid md:grid-cols-2 gap-2 mx-5'>
+                    <div className='grid md:grid-cols-2 gap-2 mx-5 px-2 md:px-10'>
                         {
                             sliderOne.slice(0, 4).map(slider => <SingleSliderOne
                                 key={slider.id}
