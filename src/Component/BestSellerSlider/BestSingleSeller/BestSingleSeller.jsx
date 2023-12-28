@@ -6,10 +6,10 @@ const BestSingleSeller = ({ slider }) => {
         <div>
             <div className="flex mt-5 cursor-pointer">
                 <div>
-                    <img className="w-40" src={img} alt="" />
+                    <img className="w-32" src={img} alt="" />
                 </div>
-                {/* text */}
-                <div className="text-start mt-5">
+                {/* left-text */}
+                <div className="text-start mt-5 group">
                     {/* icon star */}
                     <div className="flex gap-1 text-gray-300 text-xl mb-2 md:mb-2 ">
                         <IoStar />
@@ -18,7 +18,7 @@ const BestSingleSeller = ({ slider }) => {
                         <IoStar />
                         <IoStar />
                     </div>
-                    <h2 className="text-xl md:text-xl font-bold mt-1">{name}</h2>
+                    <h2 className="text-xl md:text-xl font-bold mt-1 group-hover:text-orange-400 duration-300">{name}</h2>
                     <h4 className="text-2xl text-red-400 font-bold my-1">${price}</h4>
                 </div>
 

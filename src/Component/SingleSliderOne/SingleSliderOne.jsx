@@ -27,7 +27,7 @@ const SingleSliderOne = ({ slider }) => {
                     </div>
 
                 </div>
-                {/* text */}
+                {/* left-text */}
                 <div className="text-start group">
                     {/* icon star */}
                     <div className="flex gap-1 text-gray-300 text-xl mb-2 md:mb-5">

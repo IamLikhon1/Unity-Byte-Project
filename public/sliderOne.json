@@ -12,7 +12,7 @@
         "name": "BrewMaster 5000",
         "price": 89.99,
         "description": "Start your day right with the BrewMaster 5000 coffee maker. Brews rich and flavorful coffee with customizable settings for your preferences.",
-        "sell":"-6%"
+        "sell": "-6%"
     },
     {
         "id": 3,
@@ -20,7 +20,7 @@
         "name": "Illuminate Plus",
         "price": 12.99,
         "description": "An intelligent LED bulb with adjustable color temperature and brightness. Compatible with smart home systems for convenient control.",
-        "sell":"-6%"
+        "sell": "-6%"
     },
     {
         "id": 4,
@@ -28,7 +28,7 @@
         "name": "AutoClean Max",
         "price": 199.99,
         "description": "Make cleaning effortless with the AutoClean Max robot vacuum cleaner. Smart navigation, powerful suction, and automatic charging.",
-        "sell":"-6%"
+        "sell": "-6%"
     },
     {
         "id": 5,
@@ -36,7 +36,7 @@
         "name": "CoolBreeze Turbo",
         "price": 59.99,
         "description": "Stay cool in style with the CoolBreeze Turbo electric fan. Adjustable speed settings, oscillation feature, and a modern design for any room.",
-        "sell":"-6%"
+        "sell": "-6%"
     },
     {
         "id": 6,
@@ -44,7 +44,7 @@
         "name": "AutoClean Max",
         "price": 199.99,
         "description": "Make cleaning effortless with the AutoClean Max robot vacuum cleaner. Smart navigation, powerful suction, and automatic charging.",
-        "sell":"-6%"
+        "sell": "-6%"
     },
     {
         "id": 7,
@@ -52,7 +52,7 @@
         "name": "AutoClean Max",
         "price": 199.99,
         "description": "Make cleaning effortless with the AutoClean Max robot vacuum cleaner. Smart navigation, powerful suction, and automatic charging.",
-        "sell":"-6%"
+        "sell": "-6%"
     },
     {
         "id": 8,

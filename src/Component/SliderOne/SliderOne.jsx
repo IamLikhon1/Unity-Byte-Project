@@ -16,7 +16,7 @@ const SliderOne = () => {
     }, [])
     return (
         <div>
-            <Swiper  navigation={true} modules={[Navigation]} className="mySwiper">
+            <Swiper navigation={true} modules={[Navigation]}>
 
                 {/* sliderOne */}
                 <SwiperSlide>
